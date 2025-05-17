@@ -2,7 +2,6 @@
 ## Description
 This repository contains the DynNet project, which includes various models and data for analysis.
 
-![Description of the image](./Figure1t3.png)
 
 ## Installation
 To install the necessary dependencies, run:
